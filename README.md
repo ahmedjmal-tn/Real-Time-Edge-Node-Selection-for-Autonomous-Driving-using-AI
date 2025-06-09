@@ -54,7 +54,8 @@ The frontend is built using Angular and provides:
 - A **node recommendation interface**
 - **User authentication** via Firebase
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/9314d7a3-231d-4648-9173-2f261badaf51)
+
 
 
 ---
